@@ -13,3 +13,4 @@ title: Wage
 If you are a gig worker, you already use your phone or tablet's Calendar app to plan your day. #Wage searches this same Calendar to find your work events and give you statistics, challenges and payment tracking.
 
 ![Job](/assets/images/job.png)
+
