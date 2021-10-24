@@ -1,5 +1,9 @@
-## #Wage
-
+---
+permalink: /
+redirect_from:
+  - /wage
+title: Wage
+---
 ## Work tracking made easy.
 #Wage automatically finds tagged events and calculates your hours and pay. Time tracking for babysitters to paralegals made easy.
 

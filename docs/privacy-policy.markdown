@@ -1,5 +1,8 @@
-## Privacy Policy
-##### Last Updarted 4/20/2021
+---
+title: Privacy Policy
+permalink: /wage/privacy-policy
+---
+##### Last Updated 4/20/2021
 
 
 Calendar, job, and contact data is retained locally within #Wage on your device only. #Wage does not share your data with any third parties. 
